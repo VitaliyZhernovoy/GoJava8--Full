@@ -1,4 +1,4 @@
-package vebinags;
+package vebinags.vebinar1;
 
 /**
  * Created by Оля on 06.07.2017.
