@@ -3,7 +3,7 @@ package vebinags.vebinar2;
 
 import java.util.Scanner;
 
-public class ExampleArray {
+public class ExampleFor {
     public static void main(String[] args) {
         int[] cars = new int[5];
 
@@ -16,11 +16,10 @@ public class ExampleArray {
         cars[4] = 14;
         int a = cars[3];
 
-        System.out.println(cars[0] + " ; " + cars[1] + " ; " + cars[2] + " ; " + cars[3] + " ; " + cars[4]);
-        System.out.println(a);
+        for (int index = 0; index < cars.length; index++) {
+            cars[index] = 10 + index;
+            System.out.println(cars[index]);
 
-
+        }
     }
 }
-
-
