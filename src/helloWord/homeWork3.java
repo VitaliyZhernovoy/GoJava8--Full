@@ -60,8 +60,8 @@ public class homeWork3 {
 
         return min;
 
-
     }
+
 
     public static int max(int[] array) {
         int max = 0;
@@ -70,6 +70,7 @@ public class homeWork3 {
 
         }
         System.out.println("Максимальное число массива int = " + max);
+
         return max;
 
     }
@@ -79,7 +80,7 @@ public class homeWork3 {
         Arrays.sort(array);
 
         System.out.println("отсортированный массив = " + Arrays.toString(array));
-        
+
         return sorting;
 
     }
