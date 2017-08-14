@@ -24,7 +24,7 @@ public class homeWork3 {
             System.out.print("Введите " + (i + 1) + "-й элемент массива: ");
             array[i] = in.nextInt();
 
-            System.out.println("вы ввели  " + array[i]);
+            System.out.println("вы ввели:  " + array[i]);
 
             i++;
 
@@ -45,17 +45,36 @@ public class homeWork3 {
         max = max(array);
         sorting = sorting(array);
 
+        int maxCopyes = 0;
+
+        for (int k = 0; k < array.length; k++) {
+            int counter = 0;
+            for (int j = 0; j < array.length; j++) {
+                if (array[k] == array[j]) {
+                    counter++;
+
+                }
+
+//                              выводим максимальное число повторений одного числа из массива
+            maxCopyes = maxCopyes < counter ? counter : maxCopyes;
+
+
+        }
+
+    }
+        System.out.println("максимально повторений:  " + maxCopyes  );
 
 
     }
 
 
     public static int min(int[] array) {
-        int min = 0;
+        int min = Integer.MAX_VALUE ;
         for (int i = 0; i < array.length; i++) {
             if (min > array[i]) min = array[i];
 
         }
+
         System.out.println("Минимальное число массива int = " + min);
 
         return min;
@@ -84,6 +103,7 @@ public class homeWork3 {
         return sorting;
 
     }
+
 }
 
 
