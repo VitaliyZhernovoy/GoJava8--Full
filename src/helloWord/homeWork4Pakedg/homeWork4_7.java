@@ -46,23 +46,27 @@ public class homeWork4_7 {
         }
         private static void txt() {
             System.out.println();
-            System.out.println("хотите продолжить решать задачи?"+ "\n" + "Введите да или нет");
+            System.out.println("хотите продолжить решать задачи?" + "\n" + "Введите да или нет");
             Scanner s = new Scanner(System.in);
             String txt = s.next();
-            if (txt.equals("да")){
+            if (txt.equals("да")) {
                 main(new String[0]);
-            } else {
-                System.out.println("Вы ввели не верную команду");
-                main(new String[0]);
-            }
-                if (txt.equals("нет")){
-                System.out.println( "Спасибо за внимание!");
 
+            } if (txt.equals("да") && txt.equals("нет") !=true )
+                System.out.println("Вы ввели не верную команду");
+           //main(new String[0]);
+
+
+
+            if (txt.equals("нет")) {
+                System.out.println("Спасибо за внимание!");
 
             }
         }
-
 }
+
+
+
 
 
 
