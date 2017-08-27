@@ -6,7 +6,7 @@ package helloWord.homeWork4Pakedg;
 
 
 public class homeWork4_3 {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         int width = 7 + (int) (Math.random() * 7 );
         int height = 5 + (int) (Math.random() * 7);
         drawRectangle(width, height);

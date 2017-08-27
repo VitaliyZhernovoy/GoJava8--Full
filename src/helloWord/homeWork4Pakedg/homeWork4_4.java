@@ -6,7 +6,7 @@ package helloWord.homeWork4Pakedg;
 
 
 public class homeWork4_4 {
-        public static void main(String[] args) {
+        public static void main(String... args) {
             int numI = (int) (Math.random() * 20);
             float numF = (float) (Math.random() * 20);
             System.out.println("Максимальное число из интов : " + getMax(numI, numF));

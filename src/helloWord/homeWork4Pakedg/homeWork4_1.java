@@ -7,7 +7,7 @@ public class homeWork4_1 {
 программы: 1 2 3 4 5  */
 
 
-        public static void main(String[] args) {
+        public static void main(String... args) {
             int x = (int) (Math.random() * 30);
             count(x);
         }
