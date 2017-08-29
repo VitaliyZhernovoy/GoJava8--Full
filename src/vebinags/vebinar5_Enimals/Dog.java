@@ -4,4 +4,13 @@ package vebinags.vebinar5_Enimals;
  * Created by Оля on 29.08.2017.
  */
 public class Dog {
+
+    int age;
+    public String name = "Бобик";
+
+
+    public Dog() {
+         
+    }
+
 }
