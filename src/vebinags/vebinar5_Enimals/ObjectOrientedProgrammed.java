@@ -5,12 +5,14 @@ package vebinags.vebinar5_Enimals;
 
 public class ObjectOrientedProgrammed {
     public static void main(String[] args) {
-        Dog dogBobik = new Dog();
-        System.out.println(dogBobik.name);
+        Dog dogDefult = new Dog();
+        dogDefult.showInfo();
 
-        Dog dogSharik = new Dog("Шарик");
-        dogSharik.setAge(-5);
-        dogSharik.showInfo();// или так вот создать отдельнуюфункцию которая будет выводить имя и возраст
+        System.out.println();
+
+        Dog dogSharik = new Dog("Шарик", 5);
+        dogSharik.showInfo();// функцию которая будет выводить имя и возраст
+
 
 
     }
