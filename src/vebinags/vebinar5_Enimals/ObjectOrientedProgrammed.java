@@ -9,7 +9,8 @@ public class ObjectOrientedProgrammed {
         System.out.println(dogBobik.name);
 
         Dog dogSharik = new Dog();
-        System.out.println(dogSharik.name);
+        //dogSharik.getAge(); можно так
+        dogSharik.showInfo();// или так вот создать отдельнуюфункцию которая будет выводить имя и возраст
 
 
     }
