@@ -10,13 +10,14 @@ public class Dog {
     //protected - работает подобно private
 
 
-    public Dog() {
-
-    }
+    
     public Dog(String name) {
         this.name = name;
     }
     public void setAge(int age) {
+        if (age < 0) {
+            System.out.println("Неверный возраст!!!");
+        }
         this.age = age;
     }
 
@@ -24,7 +25,7 @@ public class Dog {
         return  age;
     }
     public void showInfo() {
-        System.out.println("Собаку зовут: "+ name);
+        System.out.println("Собаку зовут: " + name);
         System.out.println("Собаке " + age + " лет");
     }
 }
