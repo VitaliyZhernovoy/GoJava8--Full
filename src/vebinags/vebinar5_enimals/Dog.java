@@ -1,4 +1,4 @@
-package vebinags.vebinar5_Enimals;
+package vebinags.vebinar5_enimals;
 
 
 public class Dog {

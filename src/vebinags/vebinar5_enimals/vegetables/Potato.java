@@ -1,4 +1,4 @@
-package vebinags.vebinar5_Enimals.vegetables;
+package vebinags.vebinar5_enimals.vegetables;
 
 
 public class Potato {

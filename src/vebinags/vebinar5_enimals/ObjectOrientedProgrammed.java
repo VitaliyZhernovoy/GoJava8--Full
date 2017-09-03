@@ -1,7 +1,8 @@
-package vebinags.vebinar5_Enimals;
+package vebinags.vebinar5_enimals;
 
 
-import vebinags.vebinar5_Enimals.vegetables.Potato;
+import vebinags.vebinar5_enimals.strucure.Farm;
+import vebinags.vebinar5_enimals.vegetables.Potato;
 
 public class ObjectOrientedProgrammed {
     // ООП   ОБЪЕКТНО  ОРИЕНТИРОВАННОЕ   ПРОГРАММИРОВАНИЕ
@@ -24,6 +25,14 @@ public class ObjectOrientedProgrammed {
         p.outDate = 10;
         p.refreshParams(100);
         System.out.println("Готова ли картошка к употриблению? " + p.getRedyToEat());
+        System.out.println();
+
+        System.out.println("ферма");
+        Farm farm = new Farm();
+        farm.dog[9].showInfo();
+
+
+
 
 
 
