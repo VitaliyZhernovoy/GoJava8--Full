@@ -6,18 +6,16 @@ public class Program {
 
         CarDoor door = new CarDoor();
 
-//        System.out.println("Дверь открыта? "+ door.toggleStateDor());
-//        System.out.println("Дверь открыта? "+ door.toggleStateDor());
-//
-//        System.out.println("Окно открыто?  "+ door.toggleStateWindow());
-//        System.out.println("Окно открыто?  "+ door.toggleStateWindow());
+        System.out.println("Дверь открыта? "+ door.toggleStateDor());
+        System.out.println("Дверь открыта? "+ door.toggleStateDor());
 
-        door.Doors();
+        System.out.println("Окно открыто?  "+ door.toggleStateWindow());
+        System.out.println("Окно открыто?  "+ door.toggleStateWindow());
 
-        door.Windows();
+        CarDoor doors = new CarDoor();
 
-
-
+        System.out.println("Состояние двери " + doors.Doors() );
+        System.out.println("Состояние окна " + doors.Windows());
 
 
     }

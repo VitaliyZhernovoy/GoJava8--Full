@@ -21,20 +21,21 @@ public class CarDoor {
         return windowsIsOpen = !windowsIsOpen;
 
     }
-    public int Doors() {
-        if (windowsIsOpen = !windowsIsOpen)
+
+    public boolean Doors() {
+        if (doorsIsOpen = !doorsIsOpen)
             System.out.println("Дверь закрыли");
         else
             System.out.println("Дверь открыли");
         return Doors();
     }
 
-    public int Windows(){
+    public boolean Windows(){
         if (windowsIsOpen = !windowsIsOpen)
             System.out.println("Окно закрыли");
         else
             System.out.println("Окно открыли");
 
-        return Doors();
+        return Windows();
     }
 }
