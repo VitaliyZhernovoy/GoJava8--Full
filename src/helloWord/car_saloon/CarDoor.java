@@ -1,41 +1,92 @@
 package helloWord.car_saloon;
 
+/*Класс CarDoor
+   На прямую к переменным этого класса никто не может, только через методы
+   --------------------
+   Хранит:
+   состояние двери(открыта/закрыта)
+   состояние окна (открыто/закрыто)
+   Конструктор
+   --------------------
+   Требуется насколько конструкторов на различные случаи
+   Один без аргументов. Он должен присвоить переменым значения на случай если данных нет.
+   Один конструктор принимает оба состояния, двери и окна. Присваивает эти значения переменным внутри объекта.
+   Методы
+   --------------------
+   открыть дверь
+   закрыть дверь
+   открыть/закрыть дверь (если дверь открыта и вызывается эта функция, значит дверь необходимо закрыть и наоборот)
+   открыть окно
+   закрыть окно
+   открыть/закрыть окно(если дверь открыта и вызывается эта функция, значит дверь необходимо закрыть и наоборот)
+   Вывести в консоль данные об объекте*/
+
 
 public class CarDoor {
 
-    private int doors;
-    private boolean doorsIsOpen = false;
+    //Переменные
 
-    private int windows;
-    private boolean windowsIsOpen = false;
+    private Boolean stateOfDoor;
+    private Boolean stateOfWindow;
 
-   public CarDoor(){
+    //Конструкторы
 
-   }
+    public CarDoor() {
 
-    public  boolean  toggleStateDor(){
-        return doorsIsOpen = !doorsIsOpen;
-
-    }
-    public  boolean  toggleStateWindow(){
-        return windowsIsOpen = !windowsIsOpen;
+        stateOfDoor = true;
+        stateOfWindow = false;
 
     }
 
-    public boolean Doors() {
-        if (doorsIsOpen = !doorsIsOpen)
-            System.out.println("Дверь закрыли");
-        else
-            System.out.println("Дверь открыли");
-        return Doors();
+    public CarDoor(Boolean StateOfDoor, Boolean StateOfWindow) {
+
+        this.stateOfDoor = StateOfDoor;
+        this.stateOfWindow = StateOfWindow;
     }
 
-    public boolean Windows(){
-        if (windowsIsOpen = !windowsIsOpen)
-            System.out.println("Окно закрыли");
-        else
-            System.out.println("Окно открыли");
+    //Методы работы с дверью
 
-        return Windows();
+    public void openDoor() {
+
+        stateOfDoor = true;
+
     }
+
+    public void closeDoor() {
+
+        stateOfDoor = false;
+    }
+
+    public void openCloseDoor() {
+
+        stateOfDoor = !stateOfDoor;
+    }
+
+    //Методы работы с окном
+
+    public void openWindow() {
+
+        stateOfWindow = true;
+
+    }
+
+    public void closeWindow() {
+
+        stateOfWindow = false;
+    }
+
+    public void openCloseWindow() {
+
+        stateOfWindow = !stateOfWindow;
+
+    }
+
+    public void outputCarDoor() {
+
+        System.out.println("Дверь открыта? " + stateOfDoor);
+        System.out.println("Окно открыто? " + stateOfWindow);
+
+
+    }
+
 }
