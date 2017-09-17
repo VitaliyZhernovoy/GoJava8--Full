@@ -2,6 +2,7 @@ package vebinags.vebinar5_enimals;
 
 
 import vebinags.vebinar5_enimals.strucure.Farm;
+import vebinags.vebinar5_enimals.strucure.furniture.Table;
 import vebinags.vebinar5_enimals.vegetables.Potato;
 
 public class ObjectOrientedProgrammed {
@@ -27,9 +28,10 @@ public class ObjectOrientedProgrammed {
         System.out.println("Готова ли картошка к употриблению? " + p.getRedyToEat());
         System.out.println();
 
-        System.out.println("ферма");
+        System.out.println("Ферма");
         Farm farm = new Farm();
         farm.dog[9].showInfo();
+
 
 
 

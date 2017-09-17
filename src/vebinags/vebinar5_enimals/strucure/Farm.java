@@ -16,5 +16,4 @@ public class Farm {
             potato[i] = new Potato();
         }
     }
-
 }
