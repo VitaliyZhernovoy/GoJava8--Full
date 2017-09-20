@@ -26,22 +26,21 @@ package helloWord.car_saloon;
 public class Car {
 
     //Переменные
-
     private static Date dateOfManifacture;
     private String typeOfMotor;
     private Integer maxSpeedOfCar;
     private Integer TimeOfAcceleration;
     private Integer passengerCapacity;
 
-    //Integer countPassenger;
 
+    //Integer countPassenger;
     private Integer countOfPassenger;
     private Float currentSpeed;
     private ArrayList<CarDoor> arrayListOfDoors = new ArrayList<CarDoor>();
     private ArrayList<CarWheel> arrayListOfWheels = new ArrayList<CarWheel>();;
 
-    //Конструктуры
 
+    //Конструктуры
     public Car(Date dateOfManifacture,
                    String typeOfMotor,
                    Integer maxSpeedOfCar,
@@ -110,7 +109,6 @@ public class Car {
     }
 
     //Изменить текущую скорость
-
     public void changeCurrentSpeed(Float currentSpeed) {
 
         this.currentSpeed = currentSpeed;
@@ -118,7 +116,6 @@ public class Car {
     }
 
     //Посадить 1 пассажира в машину
-
     public void seatOnePassenger() {
 
         if (countOfPassenger < passengerCapacity){
@@ -130,16 +127,16 @@ public class Car {
     }
 
     //Высадить 1 пассажира
-
     public void debarkOnePassenger() {
 
-        if (countOfPassenger > 0) countOfPassenger--;
+        if (countOfPassenger > 0){
+            countOfPassenger--;
+        }
         else System.out.println("В машине нет никого.");
 
     }
 
     //Высадить всех пассажиров
-
     public void debarkAllPassenger() {
 
         if (countOfPassenger > 0) {
@@ -231,5 +228,4 @@ public class Car {
         System.out.println("Количество дверей: " + arrayListOfDoors.size());
 
     }
-    
 }

@@ -125,5 +125,4 @@ public class Program {
         car.outputDataOfCar();
 
     }
-
 }

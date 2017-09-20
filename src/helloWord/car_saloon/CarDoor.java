@@ -45,7 +45,6 @@ public class CarDoor {
     }
 
     //Методы работы с дверью
-
     public void openDoor() {
 
         stateOfDoor = true;
@@ -62,8 +61,8 @@ public class CarDoor {
         stateOfDoor = !stateOfDoor;
     }
 
-    //Методы работы с окном
 
+    //Методы работы с окном
     public void openWindow() {
 
         stateOfWindow = true;
