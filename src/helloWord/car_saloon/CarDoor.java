@@ -84,6 +84,11 @@ public class CarDoor {
     public void outputCarDoor() {
 
         System.out.println("Дверь открыта? " + stateOfDoor);
+
+
+    }
+    public void outputDoorWindow() {
+
         System.out.println("Окно открыто? " + stateOfWindow);
 
 

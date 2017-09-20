@@ -121,8 +121,11 @@ public class Car {
 
     public void seatOnePassenger() {
 
-        if (countOfPassenger < passengerCapacity) countOfPassenger++;
-        else System.out.println("Извините. Все места заняты.");
+        if (countOfPassenger < passengerCapacity){
+            countOfPassenger++;
+        } else {
+            System.out.println("Извините. Все места заняты.");
+        }
 
     }
 
@@ -139,7 +142,11 @@ public class Car {
 
     public void debarkAllPassenger() {
 
-        if (countOfPassenger > 0) countOfPassenger = 0;
+        if (countOfPassenger > 0) {
+            countOfPassenger = 0;
+            System.out.println("Всех пассажиров вытрусили");
+            currentSpeed = 0f;
+        }
         else System.out.println("В машине нет никого.");
     }
 
@@ -164,7 +171,9 @@ public class Car {
     //Снять все колеса с машины
     public void pullOfAllWheelsFromCar() {
 
-        for (int i = 0; i < arrayListOfWheels.size(); i++) {}
+        for (int i = 0; i < arrayListOfWheels.size(); i++) {
+
+        }
         arrayListOfWheels.clear();
 
     }
@@ -181,11 +190,15 @@ public class Car {
 
     //Вычислить текущую возможную максимальную скорость (Скорость машины вычисляется так.
     //Максимальная скорость новой машины множиться на самое стертое колесо в машине.
-    //Максимальная скорость равна 0 если в машине нет ни одного пассажира, так как некому ее вести)
+    //Максимальная скорость равна 0 если в машине нет ни одного пассажира.
     public void calculateCurrentMaxSpeed() {
 
-        if (countOfPassenger == 0) maxSpeedOfCar = 0;
-        if (arrayListOfWheels.size() == 0) maxSpeedOfCar = 0;
+        if (countOfPassenger == 0){
+            maxSpeedOfCar = 0;
+        }
+        if (arrayListOfWheels.size() == 0) {
+            maxSpeedOfCar = 0;
+        }
 
         CarWheel wheel = arrayListOfWheels.get(0);
         Float currentBusIntegryty = wheel.getBusIntegrity();
@@ -203,11 +216,11 @@ public class Car {
 
     }
 
-    //Вывести в консоль данные об объекте (все поля и вычисленную максимальную скорость в
+    //Вывести в консоль данные о объекте (все поля и вычисленную максимальную скорость в
     //зависимости от целостности колес и наличия водителя)
     public void outputDataOfCar() {
 
-        System.out.println("-------Данные об машине--------- ");
+        System.out.println("-------Данные о машине--------- ");
         System.out.println("Дата производства: " + dateOfManifacture);
         System.out.println("Тип двигателя: " + typeOfMotor);
         System.out.println("Максимальная скорость машины: " + maxSpeedOfCar);
@@ -218,6 +231,5 @@ public class Car {
         System.out.println("Количество дверей: " + arrayListOfDoors.size());
 
     }
-
-
+    
 }

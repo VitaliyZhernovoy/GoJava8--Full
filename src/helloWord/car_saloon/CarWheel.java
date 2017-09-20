@@ -41,7 +41,9 @@ public class CarWheel {
     public void clearBusPartially(float percentageOfWear) {
 
         busIntegrity = busIntegrity - (busIntegrity * percentageOfWear / 100);
-        if (busIntegrity < 0f) busIntegrity = 0f;
+        if (busIntegrity < 0f) {
+            busIntegrity = 0f;
+        }
 
     }
 
@@ -56,6 +58,7 @@ public class CarWheel {
     }
 
     //Получить состояние шины
+
     public float getBusIntegrity() {
 
         return busIntegrity;
@@ -63,6 +66,7 @@ public class CarWheel {
     }
 
     //Вывести в консоль данные об объекте
+
     public void outputDataofWheel() {
 
         System.out.println("Процент износа шины составляет: " + getStateOfBus() + "%.");

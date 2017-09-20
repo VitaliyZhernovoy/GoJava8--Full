@@ -1,9 +1,7 @@
 package helloWord.car_saloon;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
-import helloWord.car_saloon.Common;
 
 
 public class Program {
@@ -14,33 +12,36 @@ public class Program {
 
     public static void main(String[] args) {
 
-        ArrayList<Car> arrayListCars = new ArrayList<Car>();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Привет! Сейчас в твоем автосалоне нет машин.");
 
         //добавить машины в автосалон
 
-        Integer countCars = Common.getNumericData(sc, "Сколько машин выставить на показ?");
+        System.out.println("Сколько машин выставить на показ?");
+        Integer countCars = Integer.parseInt(sc.nextLine());
 
-        for (int i = 0; i < countCars; i++) {
+        Car[] arrayCars = new Car[countCars];
 
-            Date date = new Date(20151107);
-            Car car = new Car(date,
-                    "Гибридный",
-                    180,
-                    7,
+        for (int i = 0; i < arrayCars.length; i++) {
+
+            Date date = new Date();
+
+
+            Car car1 = new Car(date,
+                    "Дизель",
+                    300,
+                    10,
                     5,
-                    0,
-                    (float) 0,
+                    1,
+                    0.0f,
                     4,
                     4);
-            car.getDoor(i).closeDoor();
-            arrayListCars.add(car);
 
+            arrayCars[i] = car1;
         }
 
-        //ДЛЯ ПЕРВОЙ МАШИНЫ
+        //ДЛЯ МАШИНЫ
         //открыть 2 двери
         //посадить 2 пассажира в первую машину
         //закрыть 2 двери
@@ -51,47 +52,78 @@ public class Program {
         //высадить всех пассажиров
         //закрыть 2 двери
         // установить 1 новую шину
-        // вывести данные об состояниb второй шины
-        //получить данные об машине
+        // вывести данные о состоянии второй шины
+        //получить данные о машине
 
-        Car car1 = arrayListCars.get(0);
-        CarDoor door1 = car1.getDoor(0);
-        door1.openCloseDoor();
-        CarDoor door2 = car1.getDoor(1);
-        door2.openCloseDoor();
-        car1.seatOnePassenger();
-        car1.seatOnePassenger();
-        door1.openCloseDoor();
-        door2.openCloseDoor();
-        car1.changeCurrentSpeed(0f);
-        for (int i = 0; i < car1.getCountWheels(); i++) {
 
-            CarWheel wheel = car1.getWheel(i);
-            wheel.clearBusPartially(10f);
+        System.out.println("В какой машине открыть дверь?");
+        Integer numOfCar = Integer.parseInt(sc.nextLine());
 
+        //Взяли машину
+        Car car = arrayCars[numOfCar-1];
+
+        System.out.println("Какую дверь отрыть?");
+        Integer numOfDoor = Integer.parseInt(sc.nextLine());
+         if (numOfDoor > car.getCountDoors()){
+             System.out.println("error! в машине не может быть такое колличество дверей");
+         }
+         //получаем требуюмую дверь
+        CarDoor carDoor = car.getDoor(numOfDoor-1);
+
+         //открываем дверь
+        carDoor.openDoor();
+
+        //выводим состояние двери
+        carDoor.outputCarDoor();
+
+        //садим первого
+        car.seatOnePassenger();
+        //садим второго
+        car.seatOnePassenger();
+
+        //закрыть две дври
+        car.getDoor(0).closeDoor();
+        car.getDoor(1).closeDoor();
+
+        //открыть 1 окно
+        car.getDoor(1).openWindow();
+
+        //изменяем скорость
+        car.changeCurrentSpeed(60f);
+
+        //стираем  4 шини
+        car.getWheel(0).clearBusPartially(10);
+        car.getWheel(1).clearBusPartially(10);
+        car.getWheel(2).clearBusPartially(10);
+        car.getWheel(3).clearBusPartially(10);
+
+        //открыть по одной двери у разных машин
+
+        arrayCars[2].getDoor(1).openDoor();
+        if (arrayCars.length >= 5){
+            arrayCars[4].getDoor(1).openDoor();
+        } else {
+            System.out.println("в салоне только" + arrayCars.length + " машины");
         }
 
-        door1.openCloseDoor();
-        door2.openCloseDoor();
-
-        car1.debarkAllPassenger();
-
-        door1.openCloseDoor();
-        door2.openCloseDoor();
-
-        CarWheel wheel1 = car1.getWheel(0);
-        wheel1.changeBusToNewOne();
-
-        CarWheel wheel2 = car1.getWheel(1);
-        wheel2.changeBusToNewOne();
-
-        car1.outputDataOfCar();
-        Integer countDoors = car1.getCountDoors();
-        for (int i=0; i < countDoors; i++) car1.getDoor(i).outputCarDoor();
+        //высадить всех пассажиров
+        car.debarkAllPassenger();
 
 
+
+        //закрыть 2 двери
+        car.getDoor(0).closeDoor();
+        car.getDoor(1).closeDoor();
+
+        // установить 1 новую шину
+        car.getWheel(0).changeBusToNewOne();
+
+        // вывести данные об состоянии второй шины
+        car.getWheel(1).getBusIntegrity();
+
+        //получить данные о машине
+        car.outputDataOfCar();
 
     }
-
 
 }
