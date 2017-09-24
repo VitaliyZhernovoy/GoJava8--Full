@@ -28,12 +28,13 @@ public static void outArray (int[] array2){
     System.out.println("");
 
 }
+//ищем максимальное кол-во повторений считая что массив не сортирован
 public static int maxCountRepit(int[] array){
     int maxCopyes = 0;
 
     for (int k = 0; k < array.length; k++) {
         int counter = 0;
-        for (int j = 0; j < array.length; j++) {
+        for (int j = k; j < array.length; j++) {
             if (array[k] == array[j]) {
                 counter++;
 
