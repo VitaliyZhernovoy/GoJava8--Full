@@ -4,7 +4,6 @@ import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
-import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
@@ -19,8 +18,8 @@ import java.util.Random;
 
 
 public class Snowman extends Application {
-    private final int WIND_WIDTH=700;
-    private final int WIND_HEIGHT=500;
+    private final int WIND_WIDTH=800;
+    private final int WIND_HEIGHT=600;
     @Override
     public void start (Stage primaryStage) throws Exception {
 
@@ -31,8 +30,8 @@ public class Snowman extends Application {
        //создаем экран
         Pane root = new Pane();
         VBox vBox = new VBox();
-        vBox.setTranslateX(500);
-        vBox.setTranslateY(70);
+        vBox.setTranslateX(620);
+        vBox.setTranslateY(40);
 
        // создаем текстовое окно
         TextField textField = new TextField();
@@ -44,21 +43,21 @@ public class Snowman extends Application {
         TextField textField2 = new TextField();
 
         // подписываем второе текстовое окно
-        Label label2 = new Label("введите мах радиус");
+        Label label2 = new Label("введите max радиус");
 
         // создаем  третье текстовое окно
         TextField textField3 = new TextField();
 
         // подписываем  третье текстовое окно
-        Label label3 = new Label("введите мин радиус");
+        Label label3 = new Label("введите min радиус");
 
 
        //Создаем кнопку
         Button button = new Button();
-
         button.setText("Нажми меня");
 
-        //ввыводим кнопку п текстовые поля с подписями
+
+        //выводим кнопку и текстовые поля с подписями
         vBox.getChildren().addAll(label,textField,label2,textField2,label3,textField3,button);
         root.getChildren().addAll(vBox);
 
@@ -73,6 +72,7 @@ public class Snowman extends Application {
 
         });
 
+
         //Circle circle = new Circle(50,50,40, Paint.valueOf("#00FF00"));
 
         Scene scene = new Scene(root);
@@ -86,7 +86,6 @@ public class Snowman extends Application {
 
     private Circle[] generateCircles(int count,int minRadius,int maxRadius){
         Random random = new Random();
-
 
         int sumRadius = 0;
         Circle[] circles = new Circle[count+3];
@@ -103,7 +102,7 @@ public class Snowman extends Application {
             int centerY = WIND_HEIGHT - sumRadius - radius - 40;
             sumRadius = sumRadius + 2 * radius;
             circles[i] = new Circle(
-                    100,
+                100,
                     centerY,
                     radius,
                     Paint.valueOf(color.toString()));
