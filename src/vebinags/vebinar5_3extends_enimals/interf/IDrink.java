@@ -1,7 +1,8 @@
 package vebinags.vebinar5_3extends_enimals.interf;
 
-/**
- * Created by Оля on 03.10.2017.
- */
+
 public interface IDrink {
+    int maxVolume = 10;
+    void drink(); //метод
+    void ws(); //метод
 }
