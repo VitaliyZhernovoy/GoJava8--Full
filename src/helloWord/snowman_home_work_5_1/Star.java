@@ -1,7 +1,52 @@
 package helloWord.snowman_home_work_5_1;
 
-/**
- * Created by Оля on 29.09.2017.
- */
-public class Star {
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.layout.Pane;
+import javafx.scene.shape.Line;
+import javafx.stage.Stage;
+
+
+public class Star extends Application {
+    private Pane root = new Pane();
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        primaryStage.setWidth(800);
+        primaryStage.setHeight(800);
+
+        int x = Consol.readInt("Введи координату X ");
+        int y = Consol.readInt("Введите координату Y ");
+        double rad = Consol.readDouble("Введите радиус");
+        drawStar(x,y ,rad);
+        primaryStage.setScene(new Scene(root));
+        primaryStage.show();
+    }
+
+    private void drawStar(int x, int y, double rad) {
+        double a = 0;
+        double b = Math.PI / 5.0;
+        double k = 0.35;
+        int x1 = x + (int)(rad * Math.sin(a));
+        int x2;
+        int y1 = y - (int)(rad * Math.cos(a));
+        int y2;
+        for (int i = 0; i < 5; i++) {
+            a = a + b;
+            y2 = y - (int)(k * rad * Math.cos(a));
+            x2 = x + (int)(k * rad * Math.sin(a));
+            Line line1 = new Line(x1, y1, x2, y2);
+
+            a = a + b;
+            x1 = x + (int)(rad * Math.sin(a));
+            y1 = y - (int)(rad * Math.cos(a));
+            Line line2 = new Line(x1, y1, x2, y2);
+            root.getChildren().addAll(line1, line2);
+        }
+
+    }
 }

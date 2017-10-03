@@ -1,7 +1,14 @@
 package vebinags.vebinar5_3extends_enimals;
 
-/**
- * Created by Оля on 03.10.2017.
- */
-public class AnimalFourLegs {
+
+public class AnimalFourLegs  extends Animal{
+    public AnimalFourLegs(String name, int age, int weight) {
+        super(name, age, weight);
+    }
+
+    @Override
+    public void run() {
+        System.out.println("Бег на 4 лапах");
+
+    }
 }
