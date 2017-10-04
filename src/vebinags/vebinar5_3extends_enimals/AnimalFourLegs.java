@@ -1,7 +1,7 @@
 package vebinags.vebinar5_3extends_enimals;
 
 
-public class AnimalFourLegs  extends Animal{
+public abstract class AnimalFourLegs  extends Animal{
     public AnimalFourLegs(String name, int age, int weight) {
         super(name, age, weight);
     }

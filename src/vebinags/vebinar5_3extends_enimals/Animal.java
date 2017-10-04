@@ -1,7 +1,9 @@
 package vebinags.vebinar5_3extends_enimals;
 
 
-public abstract class Animal {
+import vebinags.vebinar5_3extends_enimals.interf.IDrink;
+
+public abstract class Animal implements IDrink {
     public String mame = "default";
     private int age = 5; // доступ имеет только этот клас
     protected int weight = 10;

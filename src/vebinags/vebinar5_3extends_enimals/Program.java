@@ -17,6 +17,7 @@ public class Program {
         dog1.showWeight();
 
         cat1.run();
+        cat1.ws();
 
         //Animal animal = new Animal("SomeAnimal",10,10);
 

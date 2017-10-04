@@ -1,6 +1,8 @@
 package vebinags.vebinar5_3extends_enimals;
 
 
+import vebinags.vebinar5_3extends_enimals.interf.IDrink;
+
 public class Dog extends AnimalFourLegs {
 
     public Dog(String name, int age, int weight) {
@@ -18,4 +20,16 @@ public class Dog extends AnimalFourLegs {
 
     }
 
+
+    @Override
+    public void drink() {
+        System.out.println("песик пьёт");
+
+    }
+
+    @Override
+    public void ws() {
+        System.out.println("песик ходит в туалет");
+
+    }
 }
