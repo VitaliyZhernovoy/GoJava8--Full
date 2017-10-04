@@ -16,10 +16,10 @@ public class Star extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setWidth(800);
-        primaryStage.setHeight(800);
+        primaryStage.setWidth(700);
+        primaryStage.setHeight(700);
 
-        int x = Consol.readInt("Введи координату X ");
+        int x = Consol.readInt("Введите координату X ");
         int y = Consol.readInt("Введите координату Y ");
         double rad = Consol.readDouble("Введите радиус");
         drawStar(x,y ,rad);

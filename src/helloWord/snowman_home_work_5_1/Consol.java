@@ -1,8 +1,6 @@
 package helloWord.snowman_home_work_5_1;
 import java.util.Scanner;
 
-
-
     public class Consol {
         private static Scanner scanner = new Scanner(System.in);
         public static int readInt (String mes) {
