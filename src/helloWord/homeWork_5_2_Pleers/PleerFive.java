@@ -11,11 +11,11 @@ public class PleerFive extends PleerThree{
     }
     @Override
     public  void playAllSongs() {
-        System.out.println("Реверс плейлиста: " );
+        System.out.println("Реверс плейлиста - " );
 
+//Выводим плейлист в обратном порядке
         for (int i = playlist.length-1; i >= 0 ; i--) {
             System.out.println(playlist[i]);
-
         }
     }
 }

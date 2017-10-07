@@ -14,8 +14,6 @@ public class PleerThree extends PleerOne  {
         }
 
     public  void playAllSongs() {
-
         System.out.println("Сейчас играет плейлист - " + Arrays.toString(playlist));
-
     }
 }

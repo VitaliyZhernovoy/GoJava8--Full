@@ -9,8 +9,6 @@ public class PleerSix extends PleerThree {
         super(price, pleerName, playlist);
     }
 
-
-
     @Override
     public void playSong() {
         System.out.println("играет плеер - " + super.pleerName);

@@ -10,12 +10,11 @@ public class PleerFour extends PleerThree {
         super(price, pleerName, playlist);
         super.description="Этот плеер может проиграть последнюю песню и весь плейлист";
     }
+
     @Override
     public void playSong() {
         System.out.println("играет плеер - " + super.pleerName);
         System.out.println(description);
         System.out.println("Сейчас играет последняя композиция - " + (super.playlist.length-1));
     }
-
-
 }

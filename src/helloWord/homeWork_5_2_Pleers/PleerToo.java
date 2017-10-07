@@ -11,7 +11,7 @@ public class PleerToo extends PleerOne {
     public  void playSong() {
         System.out.println("играет плеер - " + pleerName);
 
-        System.out.println("Этот плеер может проиграть толькл первую песню плейлиста с ошибкой");
+        System.out.println("Этот плеер может проиграть только первую песню плейлиста с ошибкой");
         System.out.println("Не могу проиграть:  " + " error ");
     }
 }
