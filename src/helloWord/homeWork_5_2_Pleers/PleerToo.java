@@ -1,7 +1,17 @@
 package helloWord.homeWork_5_2_Pleers;
 
-/**
- * Created by Оля on 04.10.2017.
- */
-public class PleerToo {
+
+public class PleerToo extends PleerOne {
+
+    protected PleerToo(int price, String pleerName, String playlist) {
+        super(price, pleerName, playlist);
+    }
+
+    @Override
+    public  void playSong() {
+        System.out.println("играет плеер - " + pleerName);
+
+        System.out.println("Этот плеер может проиграть толькл первую песню плейлиста с ошибкой");
+        System.out.println("Не могу проиграть:  " + " error ");
+    }
 }
