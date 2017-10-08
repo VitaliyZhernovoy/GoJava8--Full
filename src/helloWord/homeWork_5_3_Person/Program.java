@@ -15,9 +15,11 @@ public class Program extends MainPerson {
         empl.paySelaryPerMons();
         empl.displayInfo();
         System.out.println();
+
         emp2.displayInfo();
         emp2.paySelaryPerMons();
-//        String firstName = empl.getName();
+        System.out.println();
+
 //        System.out.println(firstName);
     }
 }

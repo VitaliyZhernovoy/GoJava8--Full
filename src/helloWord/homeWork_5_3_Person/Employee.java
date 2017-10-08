@@ -6,7 +6,7 @@ package helloWord.homeWork_5_3_Person;
 public class Employee extends MainPerson {
 
     private String company;
-    
+
     public Employee(String name, String surname,double selary,String company) {
         super(name, surname, selary);
         this.company=company;
@@ -16,6 +16,7 @@ public class Employee extends MainPerson {
         super.displayInfo();
         System.out.println("Компания: " + company);
     }
+
     @Override
     public double paySelaryPerMons(){
         selary = 20.8*8*150.0;

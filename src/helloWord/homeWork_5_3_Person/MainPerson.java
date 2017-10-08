@@ -30,4 +30,5 @@ public abstract class MainPerson {
 
         System.out.println("Имя: " + name + "\n" + "Фамилия: " + surname + "\n"+ "Зарплата в месяц: " + selary + " USD");
     }
+
 }
