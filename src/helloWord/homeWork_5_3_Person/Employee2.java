@@ -11,7 +11,7 @@ public class Employee2 extends MainPerson {
         super(name, surname ,selary);
         this.company = company;
     }
-
+    @Override
     public void displayInfo(){
 
         super.displayInfo();
@@ -20,7 +20,7 @@ public class Employee2 extends MainPerson {
 
     @Override
     public double paySelaryPerMons(){
-        selary = selary;
+
         return selary;
     }
 }
