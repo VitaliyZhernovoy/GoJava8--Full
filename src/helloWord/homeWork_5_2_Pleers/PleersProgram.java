@@ -34,7 +34,8 @@ public class PleersProgram {
         pleerSix.playSong();
         pleerSix.playAllSongs();
         pleerSix.shuffle();
-        //pleerSix.playAllSongs();
+
+        //pleerSix.playAllSongs();2
 
     }
 
