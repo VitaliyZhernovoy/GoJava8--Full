@@ -1,8 +1,6 @@
 package helloWord.homeWork_5_3_Person;
 
-/**
- * Created by Оля on 08.10.2017.
- */
+
 public class Program extends MainPerson {
     public Program(String name, String surname,double selary) {
         super(name, surname,selary);
@@ -11,7 +9,13 @@ public class Program extends MainPerson {
     public static void main(String[] args) {
         Employee empl = new Employee("Tom", "Simpson",150.0, "Oracle");
         Employee2 emp2 = new Employee2("Karl", "Ohara",15000.0, "Googl+");
-        Company comp = new Company("r","r",12.0,(empl.paySelaryPerMons() + emp2.paySelaryPerMons()) );
+
+        Company comp = new Company();
+        comp.addEmployee(empl);
+        comp.addEmployee(emp2);
+        comp.addEmployee( new Employee2("Karl232", "Ohara232323",15000.0, "Googl+232323"));
+
+        SaveInfo saveInfo = new SaveInfo();
 
         empl.paySelaryPerMons();
         empl.displayInfo();
@@ -21,9 +25,9 @@ public class Program extends MainPerson {
         emp2.paySelaryPerMons();
         System.out.println();
 
-        comp.displayInfo();
-        //comp.selaryOllCompanyPerMons();
+        //comp.displayInfo();
+        saveInfo.writeToFile("Files/KFC.txt", comp);
 
-//        System.out.println(firstName);
+
     }
 }

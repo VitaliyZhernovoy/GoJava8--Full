@@ -17,9 +17,5 @@ public class Employee extends MainPerson {
         System.out.println("Компания: " + company);
     }
 
-    @Override
-    public double paySelaryPerMons(){
-        selary = 20.8*8*150.0;
-        return selary;
-    }
+
 }

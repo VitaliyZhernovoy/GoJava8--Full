@@ -1,35 +1,42 @@
 package helloWord.homeWork_5_3_Person;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Created by Оля on 08.10.2017.
- */
-public class Company  extends MainPerson{
 
-    private double selaryOllCompany;
+public class Company {
 
+    public double getSelaryOllCompany(){
+        double salary = 0;
+        for (int i = 0; i < persons.length; i++) {
+            salary = salary + persons[i].getSelarye();
+        }
+        //salary = persons[0].getSelarye() + persons[1].getSelarye();
 
-    public Company(String name, String surname, double selary, double selaryOllCompany) {
-        super(name, surname, selary);
-        this.selaryOllCompany = selaryOllCompany;
-
-
+        return salary;
     }
-        @Override
-        public void displayInfo(){
 
-            String[] persons = {"Tom","Karl"};
+    MainPerson[] persons = null;
 
-            System.out.println("Зарплата всех сотрудников компании: " + selaryOllCompany);
-            System.out.println("А именно : " + "\n" + persons[0] + " " + 24960.0  + " USD");
-            System.out.println(persons[1] + " " +  15000.0  + " USD");
+    private int size = 1;
 
-
-
-
+    public void addEmployee(MainPerson person){
+        if(persons == null) {
+            persons = new MainPerson[size];
+        } else {
+            MainPerson[] copyPersons = new MainPerson[size];
+            for (int i = 0; i < persons.length; i++) {
+                copyPersons[i] = persons[i];
             }
 
+            size++;
+            persons = new MainPerson[size];
+            for (int i = 0; i < copyPersons.length; i++) {
+                persons[i] = copyPersons[i];
+            }
+        }
+        persons[size-1] = person;
+    }
 }
 
 

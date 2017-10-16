@@ -12,9 +12,16 @@ public abstract class MainPerson {
     public String getName() {
         return name;
     }
+    public String getSurname() {
+        return surname;
+    }
+    public double getSelarye() {
+        return  selary;
+    }
+
     public double paySelaryPerMons(){
         selary = 20.8*8*150.0;
-        System.out.println(selary);
+
         return selary;
     }
 
