@@ -1,7 +1,5 @@
-package helloWord.howeWork_5_3_FlowerStore;
+package helloWord.howeWork_5_3_FlowerStore.flowers;
 
-
-import java.lang.annotation.Native;
 
 public class Chamomile extends Flowers {
 

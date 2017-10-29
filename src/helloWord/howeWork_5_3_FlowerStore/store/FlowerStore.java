@@ -1,6 +1,10 @@
-package helloWord.howeWork_5_3_FlowerStore;
+package helloWord.howeWork_5_3_FlowerStore.store;
 
 
+import helloWord.howeWork_5_3_FlowerStore.flowers.Chamomile;
+import helloWord.howeWork_5_3_FlowerStore.flowers.Flowers;
+import helloWord.howeWork_5_3_FlowerStore.flowers.Rose;
+import helloWord.howeWork_5_3_FlowerStore.flowers.Tulip;
 
 public class FlowerStore {
 
@@ -19,7 +23,7 @@ public class FlowerStore {
 
         Flowers[] bouket = new Flowers[countChamomile + countRouse + countTulip];
 
-
+// varian 1
 //        for(int i = 0; i < countRouse; i++) {
 //            Rose rose = new Rose();
 //            bouket[i] = rose;

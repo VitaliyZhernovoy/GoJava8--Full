@@ -1,4 +1,4 @@
-package helloWord.howeWork_5_3_FlowerStore;
+package helloWord.howeWork_5_3_FlowerStore.flowers;
 
 
 public class Tulip extends Flowers {
