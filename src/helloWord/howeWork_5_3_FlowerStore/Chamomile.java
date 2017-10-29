@@ -1,14 +1,15 @@
 package helloWord.howeWork_5_3_FlowerStore;
 
 
+import java.lang.annotation.Native;
+
 public class Chamomile extends Flowers {
+
+
     public Chamomile() {
         super(70);
+
     }
 
-//    public int getPriceChamomile() {
-//        System.out.println("Ромашка стоит : " + priceChamomile + "грн.");
-//        return priceChamomile;
-//    }
-
+    private String boucet;
 }

@@ -1,30 +1,60 @@
 package helloWord.howeWork_5_3_FlowerStore;
 
 
+
 public class FlowerStore {
-    static int[] countRouse = {50};
-    static int[] countChamomile = {70};
-    static int[] countTulip = {90};
-    static int[] bouquetOfFlowers = {50,70,90};
 
+    private int koshelek = 0;
 
-    public static void sell(int rouse, int chamomile, int tulip){
-
-        int[] sell = {rouse,chamomile,tulip};
-        int sum = 0;
-        for(int i = 0; i < bouquetOfFlowers.length; i++) {
-            sum = sum + sell[i];
+    public int getKoshelek() {
+        return koshelek;
+    }
+    private void calculateKoshelek(Flowers[] bucket){
+        for (int i = 0; i < bucket.length; i++) {
+            koshelek = koshelek + bucket[i].getPrice();
         }
-        System.out.println("Цветов в букете " + sum);
-
     }
 
+    public  Flowers[] sell(int countRouse, int countChamomile, int countTulip){
 
-    public static void main(String[] args) {
-        FlowerStore.sell(2,8,9);
-        FlowerStore.sell(5,18,4);
-        FlowerStore.sell(12,11,8);
+        Flowers[] bouket = new Flowers[countChamomile + countRouse + countTulip];
 
+
+//        for(int i = 0; i < countRouse; i++) {
+//            Rose rose = new Rose();
+//            bouket[i] = rose;
+//        }
+//
+//        for(int i = countRouse; i < countChamomile + countRouse; i++) {
+//            Chamomile chamomile = new Chamomile();
+//            bouket[i] = chamomile;
+//        }
+//
+//        for(int i = countRouse + countChamomile; i < bouket.length; i++) {
+//            Tulip tulipe = new Tulip();
+//            bouket[i] = tulipe;
+//        }
+
+// varian 2
+        for (int i = 0; i < bouket.length; i++) {
+            if (countRouse != 0) {
+                Rose rose = new Rose();
+                bouket[i] = rose;
+                countRouse--;
+            } else if (countChamomile != 0) {
+                Chamomile chamomile = new Chamomile();
+                bouket[i] = chamomile;
+                countChamomile--;
+            } else {
+                Tulip tulipe = new Tulip();
+                bouket[i] = tulipe;
+            }
+        }
+
+        calculateKoshelek(bouket);
+        System.out.println("Цветов в букете " + bouket.length);
+
+    return bouket;
     }
-
 }
+
