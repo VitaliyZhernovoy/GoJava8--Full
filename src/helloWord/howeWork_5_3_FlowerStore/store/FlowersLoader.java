@@ -2,36 +2,43 @@ package helloWord.howeWork_5_3_FlowerStore.store;
 
 import helloWord.howeWork_5_3_FlowerStore.flowers.Flowers;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 public class FlowersLoader {
 
-    public FlowersLoader(){}
-
     Flowers[] bucket;
+    //String fileName="src"+File.separator+"helloWord"+ File.separator+"homeWork_5_3_FlowerStore"+File.separator+"take_count_flowers.txt";
 
-    public Flowers load(String path){
+    String fileName="C:\\Users\\Оля\\IdeaProjects\\GoJava8--Full\\src\\helloWord\\howeWork_5_3_FlowerStore\\take_count_flowers";
+    public FlowersLoader(){
+        readFromFile(fileName);
+    }
+
+    private void readFromFile(String fileName) {
+        int countRose =0;
+        int countTulip = 0;
+        int countChamomile = 0;
+
         try {
-            path = "files/store.txt";
-            FileWriter writer = new FileWriter("files/store.txt");
-            for (Flowers value : bucket){
-                writer.write( "" + value + " ");
+            BufferedReader bf = new BufferedReader(new FileReader(fileName));
+            String line = bf.readLine();
+            while (line != null){
+                System.out.println(line);
+
+                String[] listStr = line.split(" ");
+                int count = Integer.parseInt(listStr[1]);
+                // если ромашка значит countChamomile=count;
+                line = bf.readLine();
             }
-            writer.flush();
+
+            FlowerStore flowerStore = new FlowerStore();
+            bucket = flowerStore.sell(countRose,countChamomile,countTulip);
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        Flowers flowerBouquet = new Flowers() ;
-        BufferedReader br = null;
-        FileReader fr = null;
-        int countRose = 0, countChamomile = 0, countTulip = 0;
-
-        return flowerBouquet;
-
     }
 
+    public Flowers[] getBucket() {
+        return bucket;
+    }
 }

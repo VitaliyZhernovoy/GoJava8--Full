@@ -9,9 +9,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        FlowerStore flowerStore = new FlowerStore();
+
         FlowersLoader flowersLoader = new FlowersLoader();
 
+        FlowerStore flowerStore = new FlowerStore();
         Flowers[] bucket = flowerStore.sell(2,8,3);
         for (int i = 0; i < bucket.length; i++) {
             System.out.print(bucket[i].getClass().getSimpleName() + ", ");
@@ -32,13 +33,12 @@ public class Main {
 
         System.out.println();
         System.out.println();
-        System.out.println();
 
 
         flowerStore.getKoshelek();
         System.out.println("Выручка магазина составляет: " + flowerStore.getKoshelek() + "грн.");
 
-        flowersLoader.load("files/store.txt");
+
 
 
 
