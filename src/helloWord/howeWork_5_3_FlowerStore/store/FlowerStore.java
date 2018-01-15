@@ -23,21 +23,7 @@ public class FlowerStore {
 
         Flowers[] bouket = new Flowers[countChamomile + countRouse + countTulip];
 
-// varian 1
-//        for(int i = 0; i < countRouse; i++) {
-//            Rose rose = new Rose();
-//            bouket[i] = rose;
-//        }
-//
-//        for(int i = countRouse; i < countChamomile + countRouse; i++) {
-//            Chamomile chamomile = new Chamomile();
-//            bouket[i] = chamomile;
-//        }
-//
-//        for(int i = countRouse + countChamomile; i < bouket.length; i++) {
-//            Tulip tulipe = new Tulip();
-//            bouket[i] = tulipe;
-//        }
+
 
 // varian 2
         for (int i = 0; i < bouket.length; i++) {

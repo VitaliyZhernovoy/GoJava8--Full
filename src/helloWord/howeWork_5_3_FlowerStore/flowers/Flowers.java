@@ -9,9 +9,6 @@ public class Flowers {
             this.price = price;
         }
 
-    public Flowers() {
-
-    }
 
     public int getPrice() {
             return price;

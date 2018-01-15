@@ -5,20 +5,23 @@ import helloWord.howeWork_5_3_FlowerStore.flowers.Flowers;
 import helloWord.howeWork_5_3_FlowerStore.store.FlowerStore;
 import helloWord.howeWork_5_3_FlowerStore.store.FlowersLoader;
 
+
+
 public class Main {
 
     public static void main(String[] args) {
 
+        String fileName="C:\\Users\\Оля\\IdeaProjects\\GoJava8--Full\\src\\helloWord\\howeWork_5_3_FlowerStore\\flowers\\files\\take_count_flowers";
+        System.out.println("Букет из лоадера: ");
+        showBucket(FlowersLoader.readFromFile(fileName));
 
-        FlowersLoader flowersLoader = new FlowersLoader();
 
         FlowerStore flowerStore = new FlowerStore();
+        //ЭТОТ БУКЕТ ЗАПИСАТЬ В ФАИЛ
         Flowers[] bucket = flowerStore.sell(2,8,3);
-        for (int i = 0; i < bucket.length; i++) {
-            System.out.print(bucket[i].getClass().getSimpleName() + ", ");
-        }
+        showBucket(bucket);
 
-        System.out.println();
+
 
         Flowers[] bucket1 = flowerStore.sell(5,18,4);
         for (int i = 0; i < bucket1.length; i++) {
@@ -31,17 +34,19 @@ public class Main {
             System.out.print(bucket2[i].getClass().getSimpleName() + ", ");
         }
 
+
         System.out.println();
         System.out.println();
 
 
         flowerStore.getKoshelek();
         System.out.println("Выручка магазина составляет: " + flowerStore.getKoshelek() + "грн.");
+        }
 
-
-
-
-
-
+        public static void showBucket (Flowers[]bucket){
+            for (int i = 0; i < bucket.length; i++) {
+                System.out.print(bucket[i].getClass().getSimpleName() + ", ");
+            }
+            System.out.println();
         }
 }
