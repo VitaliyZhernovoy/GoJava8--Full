@@ -1,7 +1,14 @@
 package helloWord.homeWork_6.myHashMap;
 
-/**
- * Created by Оля on 18.02.2018.
- */
-public class MyNodeHM {
+
+public class MyNodeHM <T,K> {
+    public T key;
+    public K value;
+    public MyNodeHM<T,K> next;
+
+    public MyNodeHM(T key, K value, MyNodeHM<T, K> next) {
+        this.key = key;
+        this.value = value;
+        this.next = next;
+    }
 }
