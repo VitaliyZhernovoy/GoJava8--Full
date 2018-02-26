@@ -85,7 +85,7 @@ public class Main<K> {
         MyHashMap<Integer, String> myHashMap = new MyHashMap<>();
         // Добавляем
         for(int i = 0; i < 10 ; i += 1){
-            myHashMap.put(i, "Число = " + Integer.toString(i));
+            myHashMap.put(i,"Число = " + Integer.toString(i));
         }
         // Удаляем
         System.out.println("Размер коллекции = " + myHashMap.size());
