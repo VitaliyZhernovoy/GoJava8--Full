@@ -8,6 +8,7 @@ public class MyLinkedList<T> implements Lists<T> {
     private MyNode<T> last = null;
     private int size = 0;
 
+
     @Override
     public void add(T value) {
         MyNode<T> node;

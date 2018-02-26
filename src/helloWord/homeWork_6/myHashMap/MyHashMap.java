@@ -46,22 +46,22 @@ public class MyHashMap<T,K> {
         }
     }
 
-    public void clear() {
-        MyNodeHM<T,K> iterator = first;
-        while (iterator != null){
-            if(iterator.next != null){
-                MyNodeHM<T,K> nextNode = iterator.next;
-                iterator.value = null;
-                iterator.key = null;
-                iterator.next = null;
-                iterator = nextNode;
-            } else {
-                iterator.value = null;
-                iterator.key = null;
-            }
-        }
-        size = 0;
-    }
+//    public void clear() {
+//        MyNodeHM<T,K> iterator = first;
+//        while (iterator != null){
+//            if(iterator.next != null){
+//                MyNodeHM<T,K> nextNode = iterator.next;
+//                iterator.value = null;
+//                iterator.key = null;
+//                iterator.next = null;
+//                iterator = nextNode;
+//            } else {
+//                iterator.value = null;
+//                iterator.key = null;
+//            }
+//        }
+//        size = 0;
+//    }
 
     public int size() {
         return size;

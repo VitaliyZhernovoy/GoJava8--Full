@@ -72,6 +72,7 @@ public class Main<K> {
             myStack.push(Integer.toString(i));
         }
 
+
         // Выводим на экран
         System.out.println(myStack.poll());
         System.out.println(myStack.poll());

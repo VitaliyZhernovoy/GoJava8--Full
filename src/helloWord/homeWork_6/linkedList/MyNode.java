@@ -6,6 +6,7 @@ public class MyNode<T> {
     public MyNode<T> next;
     public MyNode<T> prev;
 
+
     public MyNode(T item, MyNode<T> next, MyNode<T> prev) {
         this.item = item;
         this.next = next;
