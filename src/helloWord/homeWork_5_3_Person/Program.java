@@ -15,7 +15,7 @@ public class Program extends MainPerson {
         comp.addEmployee(emp2);
         comp.addEmployee( new Employee2("Karl232", "Ohara232323",15000.0, "Googl+232323"));
 
-        SaveInfo saveInfo = new SaveInfo();
+        SaveInfo  saveInfo = new SaveInfo();
 
         empl.paySelaryPerMons();
         empl.displayInfo();
