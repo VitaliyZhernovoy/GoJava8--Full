@@ -1,4 +1,6 @@
-package lessons.generic;
+package lessons;
+
+import lessons.generic.Dog;
 
 import java.util.HashMap;
 

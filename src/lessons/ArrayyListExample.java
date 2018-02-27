@@ -31,6 +31,7 @@ public class ArrayyListExample {
 
 
         arrayList.add(2, -3);
+        print(arrayList);
         arrayList.add(2, 30);
         print(arrayList);
 
