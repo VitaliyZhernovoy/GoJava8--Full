@@ -18,6 +18,9 @@ public abstract class Animal implements IDrink {
         this.weight = weight;
     }
 
+    protected Animal() {
+    }
+
     public  void showAge() {
         System.out.println(age);
     }

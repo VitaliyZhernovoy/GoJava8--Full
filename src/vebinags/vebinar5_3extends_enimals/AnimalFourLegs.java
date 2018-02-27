@@ -6,6 +6,9 @@ public abstract class AnimalFourLegs  extends Animal{
         super(name, age, weight);
     }
 
+    protected AnimalFourLegs() {
+    }
+
     @Override
     public void run() {
         System.out.println("Бег на 4 лапах");

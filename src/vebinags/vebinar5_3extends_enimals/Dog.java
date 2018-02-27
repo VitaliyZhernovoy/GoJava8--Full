@@ -5,6 +5,9 @@ import vebinags.vebinar5_3extends_enimals.interf.IDrink;
 
 public class Dog extends AnimalFourLegs {
 
+    private String name;
+    public boolean getName;
+
     public Dog(String name, int age, int weight) {
         super(name, age, weight);
         System.out.println("Объект собаки |" + name + "| создан");
@@ -17,6 +20,7 @@ public class Dog extends AnimalFourLegs {
         //удалив вывод в консоль sout
     System.out.print("Точный вес собаки = ");
     super.showWeight();
+
 
     }
 
@@ -31,5 +35,8 @@ public class Dog extends AnimalFourLegs {
     public void ws() {
         System.out.println("песик ходит в туалет");
 
+    }
+    public String getName(){
+        return name;
     }
 }

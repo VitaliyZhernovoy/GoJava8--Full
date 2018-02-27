@@ -10,6 +10,9 @@ public class Cat extends AnimalFourLegs implements IDrink {
         System.out.println("Объект кота создан");
     }
 
+    public Cat() {
+    }
+
     @Override
     public void drink() {
         System.out.println("котит пьёт");
