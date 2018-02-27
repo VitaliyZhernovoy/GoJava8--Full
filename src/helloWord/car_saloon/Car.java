@@ -1,5 +1,7 @@
 package helloWord.car_saloon;
 
+        import vebinags.vebinar5_3extends_enimals.Cat;
+
         import java.util.ArrayList;
         import java.util.Date;
 
@@ -23,7 +25,7 @@ package helloWord.car_saloon;
     Конструктор с датой производства.
     Конструктор со всеми полями, кроме массива колес и массива дверей.
    */
-public class Car {
+public class Car extends Cat {
 
     //Переменные
     private static Date dateOfManifacture;
@@ -41,7 +43,7 @@ public class Car {
 
 
     //Конструктуры
-    public Car(Date dateOfManifacture,
+    public  Car(Date dateOfManifacture,
                    String typeOfMotor,
                    Integer maxSpeedOfCar,
                    Integer TimeOfAcceleration,
@@ -68,13 +70,8 @@ public class Car {
 
     }
 
-    public Car(Date dateOfManifacture,
-                   String typeOfMotor,
-                   Integer maxSpeedOfCar,
-                   Integer TimeOfAcceleration,
-                   Integer passengerCapacity,
-                   Integer countOfPassenger,
-                   Float currentSpeed) {
+    public Car() {
+        super(2,4);
 
         this.dateOfManifacture = dateOfManifacture;
         this.typeOfMotor = typeOfMotor;
@@ -85,6 +82,11 @@ public class Car {
         this.currentSpeed = currentSpeed;
 
     }
+
+    public Car(int age, int weight) {
+        super(age, weight);
+    }
+
 
     //Методы
 
