@@ -2,15 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c774735-c1a0-4ff0-aa02-83d545e5daa1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/car_saloon/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/car_saloon/CarDoor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/car_saloon/CarWheel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/car_saloon/Program.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/helloWord/homeWork4Pakedg/homeWork4_7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/offlanes/task1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/offlanes/task2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/offlanes/task3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/trenings/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/trenings/Test2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar1/vebinar1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleArraySort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleBrake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleContynue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleFor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleForEach.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleIf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar2/ExampleWheil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/ObjectOrientedProgrammed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/strucure/Farm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/strucure/furniture/Table$Glue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/strucure/furniture/Table.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/goJava8/vebinags/vebinar5_enimals/vegetables/Potato.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Company.java" afterPath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Company.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee.java" afterPath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee2.java" afterPath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/MainPerson.java" afterPath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/MainPerson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Program.java" afterPath="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Program.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goJava8.iml" afterPath="$PROJECT_DIR$/goJava8.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,54 +54,74 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainPerson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/MainPerson.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Group.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/Group.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/generic/linkedList/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvancedJsonExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/AdvancedJsonExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DogEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/DogEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Company.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -80,6 +133,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -100,57 +154,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_2.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_3.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_4.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_5.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_6.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_7.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar10/Progekt.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_Enimals/Dog.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_Enimals/Potato.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_Enimals/vegetables/Potato.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_Enimals/ObjectOrientedProgrammed.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_Enimals/strucure/Farm.java" />
-        <option value="$PROJECT_DIR$/src/trenings/Test.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_enimals/Dog.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_enimals/strucure/Farm.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_enimals/strucure/furniture/Table.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_enimals/ObjectOrientedProgrammed.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/Common.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_enimals/vebinar5_static_final_JavaFX.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/CarDoor.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/Car.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/Program.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/CarWheel.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork3.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Snowman.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends/Program.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_static_final_JavaFX/Program.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/interf/IDrink.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/take_count_flowers" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/Flower.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/flowers/files/take_count_flowers" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/FlowerStore.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/flowers/Flowers.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/FlowersSaver.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/Main.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/FlowersLoader.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/generic/GenericChild.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/generic/GenericArray.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/generic/linkedList/Nade.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/generic/linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/generic/linkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/vebinags/vebinar9/Program.java" />
         <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Animal.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/AnimalFourLegs.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/AnimalSnake.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Cat.java" />
         <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Dog.java" />
-        <option value="$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Program.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Star.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Consol.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleeersProgram.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/Discription.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/Pleers.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerOne.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerToo.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerThree.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerFour.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerFive.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerSix.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleersProgram.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/MainPerson.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Program.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Company.java" />
-        <option value="$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee2.java" />
+        <option value="$PROJECT_DIR$/src/lessons/leson6/LinkedListExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/generic/GenericExample.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/car_saloon/Car.java" />
+        <option value="$PROJECT_DIR$/src/lessons/generic/Dog.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/List.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/queue/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/stack/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/myHashMap/MyNodeHM.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/arrayList/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/lessons/ArrayyListExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/LinkedListExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/HashSetExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/generic/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/StackExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/QueueExample.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/linkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/linkedList/MyNode.java" />
+        <option value="$PROJECT_DIR$/src/helloWord/homeWork_6/myHashMap/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/DogType.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/EnumExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/IntEnumExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/enumdemo/IntEnumExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/JsonExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/DogEntity.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/AdvansedJsonExample.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/entity/DogEntity.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/entity/Group.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson7/json/AdvancedJsonExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/DogEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lessons/lesson7/json/AdvancedJsonExample.java" />
       </list>
     </option>
   </component>
@@ -160,11 +214,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -206,6 +266,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,6 +276,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="GoJava8--Full" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -231,22 +303,8 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GoJava8--Full" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GoJava8--Full" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloWord" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -264,11 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helloWord" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeWork_5_3_Person" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,41 +336,180 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoJava8--Full" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YoutubeAnalysis" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="helloWord.howeWork_5_3_FlowerStore.store" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Оля\IdeaProjects\GoJava8--Full\src\helloWord\howeWork_5_3_FlowerStore\flowers\files" />
       <recent name="C:\Users\Оля\IdeaProjects\GoJava8--Full\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration default="false" name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AdvancedJsonExample">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="helloWord.snowman_home_work_5_1.*" />
+          <option name="PATTERN" value="helloWord.homeWork_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="helloWord.snowman_home_work_5_1.Star" />
+      <option name="MAIN_CLASS_NAME" value="helloWord.homeWork_6.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,14 +522,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="vebinags.vebinar5_3extends_enimals.*" />
+          <option name="PATTERN" value="lessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="vebinags.vebinar5_3extends_enimals.Program" />
+      <option name="MAIN_CLASS_NAME" value="lessons.QueueExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -349,14 +542,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PleersProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="helloWord.homeWork_5_2_Pleers.*" />
+          <option name="PATTERN" value="lessons.lesson7.enumdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="helloWord.homeWork_5_2_Pleers.PleersProgram" />
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson7.enumdemo.EnumExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,14 +562,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MainPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="JsonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="helloWord.homeWork_5_3_Person.*" />
+          <option name="PATTERN" value="lessons.lesson7.json.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="helloWord.homeWork_5_3_Person.MainPerson" />
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson7.json.JsonExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -389,14 +582,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AdvancedJsonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="helloWord.homeWork_5_3_Person.*" />
+          <option name="PATTERN" value="lessons.lesson7.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="helloWord.homeWork_5_3_Person.Program" />
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson7.json.AdvancedJsonExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -790,19 +983,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Star" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Program (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PleersProgram" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MainPerson" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Program" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QueueExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EnumExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JsonExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdvancedJsonExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Program" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainPerson" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PleersProgram" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Star" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Program (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AdvancedJsonExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JsonExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EnumExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QueueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -869,46 +1062,110 @@
       <workItem from="1507374671114" duration="266000" />
       <workItem from="1507374952631" duration="6864000" />
       <workItem from="1507460709950" duration="10657000" />
-      <workItem from="1507473340246" duration="4609000" />
+      <workItem from="1507473340246" duration="11532000" />
+      <workItem from="1507627486523" duration="1538000" />
+      <workItem from="1507658668908" duration="899000" />
+      <workItem from="1507662558334" duration="2915000" />
+      <workItem from="1508000955982" duration="3168000" />
+      <workItem from="1508063084373" duration="1333000" />
+      <workItem from="1508070234693" duration="8424000" />
+      <workItem from="1508165595113" duration="11476000" />
+      <workItem from="1508264525904" duration="7917000" />
+      <workItem from="1508277120052" duration="315000" />
+      <workItem from="1508345284906" duration="5092000" />
+      <workItem from="1508430974009" duration="593000" />
+      <workItem from="1508439530642" duration="4998000" />
+      <workItem from="1508516520935" duration="592000" />
+      <workItem from="1508521681978" duration="1650000" />
+      <workItem from="1508785495555" duration="1488000" />
+      <workItem from="1509216228361" duration="4678000" />
+      <workItem from="1509279442317" duration="6347000" />
+      <workItem from="1509289070740" duration="10094000" />
+      <workItem from="1509385129062" duration="625000" />
+      <workItem from="1509397545129" duration="679000" />
+      <workItem from="1509794671222" duration="1797000" />
+      <workItem from="1511375750713" duration="2205000" />
+      <workItem from="1511461320040" duration="1544000" />
+      <workItem from="1512588983768" duration="605000" />
+      <workItem from="1512934345083" duration="592000" />
+      <workItem from="1512986566463" duration="2629000" />
+      <workItem from="1513018287356" duration="1334000" />
+      <workItem from="1513098290118" duration="4553000" />
+      <workItem from="1513530350179" duration="6354000" />
+      <workItem from="1513621759635" duration="3464000" />
+      <workItem from="1513706779627" duration="592000" />
+      <workItem from="1513789315926" duration="6175000" />
+      <workItem from="1514310946637" duration="594000" />
+      <workItem from="1514400442410" duration="596000" />
+      <workItem from="1515086469395" duration="10504000" />
+      <workItem from="1515100565655" duration="717000" />
+      <workItem from="1515249241706" duration="4953000" />
+      <workItem from="1515260407465" duration="8073000" />
+      <workItem from="1515346575939" duration="590000" />
+      <workItem from="1515434456985" duration="4864000" />
+      <workItem from="1515531250596" duration="749000" />
+      <workItem from="1515610667604" duration="7757000" />
+      <workItem from="1515695142302" duration="12637000" />
+      <workItem from="1515921140130" duration="2619000" />
+      <workItem from="1516040519154" duration="5336000" />
+      <workItem from="1516128064184" duration="8045000" />
+      <workItem from="1516526111663" duration="3514000" />
+      <workItem from="1516818050879" duration="1941000" />
+      <workItem from="1517158072793" duration="12443000" />
+      <workItem from="1518116750194" duration="6229000" />
+      <workItem from="1518354213735" duration="14856000" />
+      <workItem from="1518544086574" duration="1302000" />
+      <workItem from="1518720950054" duration="1188000" />
+      <workItem from="1518973789632" duration="5242000" />
+      <workItem from="1519327091664" duration="1193000" />
+      <workItem from="1519481236292" duration="593000" />
+      <workItem from="1519492461922" duration="587000" />
+      <workItem from="1519549344383" duration="15845000" />
+      <workItem from="1519669947711" duration="4436000" />
+      <workItem from="1519751869802" duration="7642000" />
+      <workItem from="1519920686911" duration="9550000" />
+      <workItem from="1520014103546" duration="5949000" />
+      <workItem from="1520109820571" duration="597000" />
+      <workItem from="1520273174408" duration="3971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243010000" />
+    <option name="totallyTimeSpent" value="521710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26498422" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19639935" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31861198" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15946844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2920937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2969697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38880485" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43217665" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17512275" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526544" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -919,11 +1176,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="arrayCars[1]" />
+        <watch expression="Integer.parseInt(line);" language="JAVA" />
+        <watch expression="bucket.length" language="JAVA" />
+        <watch expression="FlowersLoader.readFromFile(fileName).length" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -932,371 +1192,356 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_4.java">
+    <entry file="file://$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/Flower.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/flowers/Chamomile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/flowers/Rose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/flowers/Tulip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork4Pakedg/homeWork4_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar10/Progekt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/vegetables/Potato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trenings/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trenings/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/strucure/Farm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/strucure/furniture/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/flowers/Flowers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/vebinar5_static_final_JavaFX.java" />
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/ObjectOrientedProgrammed.java">
+    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/io/FileOutputStream.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="118">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_enimals/Dog.java">
+    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/io/FileWriter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="69" column="58" lean-forward="false" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+        <state relative-caret-position="118">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/car_saloon/Common.java" />
-    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/util/Date.class">
+    <entry file="file://$PROJECT_DIR$/src/helloWord/howeWork_5_3_FlowerStore/store/FlowersSaver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/flowers/files/take_count_flowers">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
-          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/car_saloon/CarDoor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/store/FlowerStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/car_saloon/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3876">
-          <caret line="229" column="5" lean-forward="false" selection-start-line="229" selection-start-column="5" selection-end-line="229" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/car_saloon/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/howeWork_5_3_FlowerStore/store/FlowersLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/car_saloon/CarWheel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/generic/GenericArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/util/DualPivotQuicksort.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/generic/GenericChild.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/util/Arrays.class">
+    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/util/Stack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/generic/linkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar5_3extends_enimals/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar5_3extends_enimals/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/car_saloon/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar5_3extends_enimals/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar5_3extends_enimals/AnimalFourLegs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/generic/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/ArrayyListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/generic/GenericExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/LinkedListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/HashSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="67" column="38" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="38" />
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/StackExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk1.8.0_73/javafx-src.zip!/javafx/scene/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/QueueExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="5210" column="22" lean-forward="false" selection-start-line="5210" selection-start-column="22" selection-end-line="5210" selection-end-column="22" />
+        <state relative-caret-position="241">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Programm.java" />
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/interf/IDrink.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/HashMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/arrayList/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="27" lean-forward="false" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/linkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/linkedList/MyNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/AnimalSnake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/myHashMap/MyHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="731">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Snowman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Consol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/lang/reflect/Method.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_3extends_enimals/AnimalFourLegs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/Discription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="43" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerToo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-          <folding>
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#201#202#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerSix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#204#205#0" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vebinags/vebinar5_static_final_JavaFX/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#1480#1481#0" expanded="false" />
-            <element signature="e#1508#1509#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/Pleers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/snowman_home_work_5_1/Star.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/myHashMap/MyNodeHM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerThree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/queue/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="78" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="82" />
-          <folding>
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#457#458#0" expanded="false" />
-          </folding>
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleerOne.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/stack/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="84" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="84" />
-          <folding />
+        <state relative-caret-position="1853">
+          <caret line="111" column="24" lean-forward="false" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk1.8.0_73/jre/lib/rt.jar!/java/lang/String.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/Lists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_2_Pleers/PleersProgram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helloWord/homeWork_6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding />
+        <state relative-caret-position="1190">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/enumdemo/IntEnumExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/enumdemo/EnumExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/MainPerson.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/enumdemo/DogType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar5_static_final_JavaFX/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Employee2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/DogEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloWord/homeWork_5_3_Person/Company.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/JsonExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="287">
+          <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vebinags/vebinar9/generic/linkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/entity/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/lesson7/json/AdvancedJsonExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
