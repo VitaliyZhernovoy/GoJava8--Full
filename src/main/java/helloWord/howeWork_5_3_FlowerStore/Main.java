@@ -1,17 +1,19 @@
 package helloWord.howeWork_5_3_FlowerStore;
 
-
 import helloWord.howeWork_5_3_FlowerStore.flowers.Flowers;
 import helloWord.howeWork_5_3_FlowerStore.store.FlowerStore;
 import helloWord.howeWork_5_3_FlowerStore.store.FlowersLoader;
 
-
-
 public class Main {
+
+
+
+
 
     public static void main(String[] args) {
 
-        String fileName="C:\\Users\\Оля\\IdeaProjects\\GoJava8--Full\\src\\helloWord\\howeWork_5_3_FlowerStore\\flowers\\files\\take_count_flowers";
+        String fileName="src\\main\\java\\helloWord\\howeWork_5_3_FlowerStore\\flowers\\files\\take_count_flowers";
+
         System.out.println("Букет из лоадера: ");
         showBucket(FlowersLoader.readFromFile(fileName));
 
