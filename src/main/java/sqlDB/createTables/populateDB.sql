@@ -15,3 +15,12 @@ insert into COMPANIES (company_name, adress) VALUES
   ('Ciklum','Odessa'),
   ('DMarket','Kiev');
 
+insert into PROJECTS (project_name, description) VALUES
+  ('StarDefender','MMO Game'),
+  ('IMS searching engine','some business logic'),
+  ('Free Driver','Auto - Pilot system'),
+  ('The Witcher','Game');
+
+insert into CUSTOMERS (customer_name, adress) VALUES
+  ('World owner','whole world');
+
